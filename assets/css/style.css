@@ -1,3 +1,1 @@
-.style {
-  color: red;
-}
+@import "{{ site.theme }}";
